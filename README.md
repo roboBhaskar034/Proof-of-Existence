@@ -56,16 +56,6 @@ XXX
 
 ---
 
-## 👨‍💻 Team
-
-Byte-Spark
-
-* Bhaskar Ghosh
-* Surajit Ghosh
-* Arup Saha
-
----
-
 ## 📄 License
 
 MIT License
